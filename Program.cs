@@ -7,7 +7,7 @@ namespace AppGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-
+            Console.WriteLine("New Project");
             Console.WriteLine("My Name is Neelesh Nigam");
         }
     }
